@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NavesUSFX_022026",
+			"Path": "D:\\ING DE SIS\\Materias 2-2026\\Labs_pacheco\\Laboratorio_3\\NavesUSFX_022026\\Source\\NavesUSFX_022026.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NavesUSFX_022026Editor",
+			"Path": "D:\\ING DE SIS\\Materias 2-2026\\Labs_pacheco\\Laboratorio_3\\NavesUSFX_022026\\Source\\NavesUSFX_022026Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

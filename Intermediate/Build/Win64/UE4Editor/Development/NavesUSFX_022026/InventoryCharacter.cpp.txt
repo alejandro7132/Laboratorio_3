@@ -1,0 +1,21 @@
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Definitions.NavesUSFX_022026.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Source\NavesUSFX_022026\InventoryCharacter.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\InventoryCharacter.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Source\NavesUSFX_022026\InventoryActor.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\InventoryActor.generated.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Source\NavesUSFX_022026\InventoryComponent.h
+D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\InventoryComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h

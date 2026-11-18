@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NavesUSFX_022026.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\NavesUSFX_022026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Enemigo.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryActor.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryCharacter.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryComponent.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026GameMode.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Enemigo.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryActor.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryCharacter.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\InventoryComponent.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026.init.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026GameMode.gen.cpp.obj"
+"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Default.rc2.res"
+/OUT:"D:\ING DE SIS\Materias 2-2026\Labs_pacheco\Laboratorio_3\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\UE4Editor-NavesUSFX_022026.lib"
